@@ -1,4 +1,5 @@
-1.Text1<title><movement.Text1><up.direction><quantity.movement.360°>
+1.Text1<title>
+<movement.Text1><up.direction><quantity.movement.360°>
 <movement.Text1><side.left.direction><quantity.movement.180°>
 <movement.Text1><side.right.direction><quantity.movement.100°>
 <movement.Text1><side.down><quantity.movement.99°>
