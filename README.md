@@ -1,2 +1,2 @@
-# Novo-Formato-de-C-digo-Escritas-
+# Novo-Formato-de-Codigo-Escritas-
 Nova escritura Códigos Texto 
