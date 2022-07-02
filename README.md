@@ -19,3 +19,8 @@ Resumindo,é o Conjunto de instruções e Declarações Realista na Escrita do C
 
 
 ![GridArt_20220702_113330078](https://user-images.githubusercontent.com/62495617/177005173-7b21490b-7450-4b06-b52e-000579b41932.jpg)
+
+
+Assim, temos também como tentativa buscar soluções de inclusão,
+adaptação e acessibilidade para as pessoas com algum tipo de deficiência,
+seja ela física, visual ou auditiva.
