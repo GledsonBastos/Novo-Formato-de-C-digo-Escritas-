@@ -17,3 +17,5 @@ Realismo-do-Codigo-da-Programacao
 
 Resumindo,é o Conjunto de instruções e Declarações Realista na Escrita do Código de Programação 
 
+
+![Uploading GridArt_20220702_113330078.jpg…]()
